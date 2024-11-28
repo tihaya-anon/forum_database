@@ -1,0 +1,2 @@
+# A Forum Project desu~
+In .dbml, I mark the relationships between entities, while in .sql, there are no foreign key constraints because it’s troublesome to manage the relationships in the database. Instead, we should handle them in the backend code.
